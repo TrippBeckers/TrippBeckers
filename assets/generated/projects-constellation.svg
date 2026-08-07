@@ -152,8 +152,8 @@
     <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">front-end-team18</text>
     <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">A web application that we made</text>
     <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">with senior students for our</text>
-    <rect x="116.5" y="163" width="72" height="18" rx="9" ry="9" fill="#a78bfa" opacity="0.12"/>
-    <text x="152.5" y="175" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Frontend</text>
+    <rect x="113.0" y="163" width="79" height="18" rx="9" ry="9" fill="#a78bfa" opacity="0.12"/>
+    <text x="152.5" y="175" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Gernalist</text>
   </g>
   <g opacity="0" style="animation: card-appear 0.6s ease 0.3s forwards">
     <rect x="305.0" y="55" width="240" height="140" rx="8" ry="8" fill="url(#card-bg-1)" stroke="#1a2332" stroke-width="1"/>
@@ -169,8 +169,8 @@
     <text x="425.0" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Discord-Bot</text>
     <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">A silly little Discord bot that</text>
     <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">I made for fun.</text>
-    <rect x="392.5" y="163" width="65" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
-    <text x="425.0" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Backend</text>
+    <rect x="385.5" y="163" width="79" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
+    <text x="425.0" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Fullstack</text>
   </g>
   <g opacity="0" style="animation: card-appear 0.6s ease 0.6s forwards">
     <rect x="577.5" y="55" width="240" height="140" rx="8" ry="8" fill="url(#card-bg-2)" stroke="#1a2332" stroke-width="1"/>
