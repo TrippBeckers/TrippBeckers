@@ -36,7 +36,7 @@
 Making jokes and code.
 Passionate about distributed systems, developer experience, and the open-source ecosystem.
 
-**Currently at** UCLL - Belgium
+**Currently at:** UCLL - Belgium
 
 </details>
 

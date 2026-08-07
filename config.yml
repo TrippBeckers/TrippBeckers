@@ -21,7 +21,7 @@ profile:
   bio: |
     Making jokes and code.
     Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"Working is not fun, that is why I have fun."'
+  philosophy: '"Why would i put a philosophy here when i can just put a joke?"'
 
 # Social links displayed at the bottom of the profile
 social:
@@ -39,11 +39,12 @@ galaxy_arms:
       - "TypeScript"
       - "React"
       - "CSS"
+      - "HTML"
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "Node.js"
+      - "Java"
+      - "Spring Boot"
       - "PostgreSQL"
   - name: "DevOps"
     color: "axon_amber"
@@ -51,6 +52,13 @@ galaxy_arms:
       - "Docker"
       - "GitHub Actions"
       - "Azure"
+  - name: "Generalist"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Git"
+      - "Linux"
+      - "Markdown"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -64,7 +72,7 @@ projects:
   - repo: "TrippBeckers/Discord-Bot"
     arm: 1
     description: "A silly little Discord bot that I made for fun."
-  - repo: "IEP-The-Green-Blanket/Front-End"
+  - repo: "IEP-The-Green-Blanket/Front-End-Hartbeespoort-Dam"
     arm: 2
     description: "A information web aplication i made for the Hartbeespoort dam in south africa."
 
